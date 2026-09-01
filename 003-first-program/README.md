@@ -1,1 +1,2 @@
-## Program to generate a truly random bit
+## Program to generate a truly random number
+
